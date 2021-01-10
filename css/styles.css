@@ -1,0 +1,11 @@
+h1 {
+  color: green;
+  text-align: center;
+}
+
+.resort {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
